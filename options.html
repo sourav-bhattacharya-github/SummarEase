@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SUMMAREASE</title>
+    <link rel="stylesheet" href="options.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="assets/icon.png">
+  </head>
+  <body>
+    <div class="hero">
+      <img src="assets/move.gif" alt="App Icon">
+      <h1>Set API Key </h1>
+    </div>
+
+    <div class="form-group">
+       
+      <label for="api-key">Gemini API Key:</label>
+      <input type="text" id="api-key" placeholder="Enter your Gemini API key" />
+      <p>
+        You can get an API key from
+        <a href="https://makersuite.google.com/app/apikey" target="_blank"
+          >Google AI Studio</a
+        >
+      </p>
+    </div>
+
+    <button id="save-button">Save API Key</button>
+    <p id="success-message" class="success-message">
+      Settings saved successfully!
+    </p>
+
+    <script src="options.js"></script>
+  </body>
+</html>
