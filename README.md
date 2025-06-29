@@ -52,8 +52,8 @@ Get fast summaries in different formats (brief, detailed, bullet points) without
    - Brief
    - Detailed
    - Bullet Points
-4. Click **"Summarize This Page"**.
-5. Read or click **"Copy Summary"** to use it elsewhere.
+4. Click **"Summarize"**.
+5. Read or click **"Copy"** to use it elsewhere.
 
 ---
 
