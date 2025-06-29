@@ -24,7 +24,7 @@ Get fast summaries in different formats (brief, detailed, bullet points) without
 
 ## 📦 Project Structure
 
-| File/Folder     | Purpose                                |
+| File/Folder    | Purpose                                |
 |----------------|----------------------------------------|
 | `manifest.json`| Chrome extension manifest declaration  |
 | `popup.html`   | UI for summary generation              |
@@ -34,7 +34,7 @@ Get fast summaries in different formats (brief, detailed, bullet points) without
 | `options.js`   | Stores API key in Chrome Storage       |
 | `background.js`| Triggers API key prompt on install     |
 | `icon.png`     | Icon for your extension                |
-
+| `move.git`     | Gif icon for options page              |
 ---
 
 ## 🧪 How to Use
